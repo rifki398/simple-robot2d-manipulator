@@ -5,7 +5,7 @@
 % Institut Teknologi Sepuluh Nopember
 % 2024
 %
-%%%%%%%%%%% TWO-LINKS ROBOTIC ARM SIMULATION USING PD CONTROL %%%%%%%%%%%%%
+%%%%%%% Simple 2D Robot Arm Manipulator Control With PD Controller %%%%%%%%
 %
 % Files:
 % main - Execute this file.
