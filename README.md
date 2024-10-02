@@ -8,7 +8,7 @@
 
 This project implements a simple 2D robot arm manipulator control using a Proportional-Derivative (PD) controller. The aim is to provide an effective simulation and visualization of the robot arm's movements and control.
 
-You can use any control theory to determine the control gains. Modify the values in the **parameter.m** file.
+You can use any control theory to determine the control gains. Modify the values in the `parameter.m` file.
 
 ## Files
 
