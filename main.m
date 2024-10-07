@@ -26,7 +26,12 @@ clear
 clc
 
 % Initial value of joint angle
-the_init = [pi/4    0.0    pi/4  0.0]';
+x_init = 0.70711;
+y_init = 1.7071;
+
+% Desired end-effector
+xt = -1;
+yt = 1;
 
 parameter;
 
