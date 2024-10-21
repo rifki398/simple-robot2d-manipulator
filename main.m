@@ -25,11 +25,11 @@ close all
 clear
 clc
 
-% Initial value of joint angle
+% Initial end-effector position
 x_init = 0.70711;
 y_init = 1.7071;
 
-% Desired end-effector
+% Desired end-effector position
 xt = -1;
 yt = 1;
 
