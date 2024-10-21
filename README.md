@@ -12,7 +12,7 @@ You can use any control theory to determine the control gains. Modify the values
 
 ## Files
 
-- **main:** Execute this file to run the main simulation.
+- **main:** Execute this file to run the main simulation. This file also contain initial condition and desired condition.
   
 - **parameter:** Contains all parameters of the robotic arm, including control gains. This file runs automatically.
   
