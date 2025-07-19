@@ -2,7 +2,7 @@
 the1(1:n,1) = out.the1.Data;
 the2(1:n,1) = out.the2.Data;
 
-filename = 'arm_animation.gif'; % For GIF
+filename = 'anim.gif'; % For GIF
 figure;
 grid on
 title('Robot Position (Updating...)')
