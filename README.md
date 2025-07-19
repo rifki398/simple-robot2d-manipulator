@@ -12,15 +12,15 @@ You can use any control theory to determine the control gains. Modify the values
 
 ## Files
 
-- **main:** Execute this file to run the main simulation. This file also contain initial condition and desired condition.
+- ```main```: Execute this file to run the main simulation. This file also contain initial condition and desired condition.
   
-- **parameter:** Contains all parameters of the robotic arm, including control gains. This file runs automatically.
+- ```parameter```: Contains all parameters of the robotic arm, including control gains. This file runs automatically.
   
-- **plotEE:** A script that plots the end-effector position based on simulation time. This file runs automatically.
+- ```plotEE```: A script that plots the end-effector position based on simulation time. This file runs automatically.
   
-- **ArmPlot:** A script for visualizing the robotic arm in a 2D Cartesian coordinate system.
+- ```ArmPlot```: A script for visualizing the robotic arm in a 2D Cartesian coordinate system.
   
-- **Simulasi_DIY:** A Simulink file designed to simulate the robotic arm.
+- ```Simulasi_DIY```: A Simulink file designed to simulate the robotic arm.
 
 ## Getting Started
 
