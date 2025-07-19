@@ -5,7 +5,7 @@
 **Year:** 2024  
 
 <p align="center">
-  <img src="arm_animation.gif" alt="Robot Animation" height="300"/>
+  <img src="arm_animation.gif" alt="Robot Animation" width="520"/>
 </p>  
 
 ## Description
@@ -31,7 +31,7 @@ You can use any control theory to determine the control gains. Modify the values
 To get started with this project, clone the repository and execute the `main` file or download and move to your own directory.
 
 <p align="center">
-  <img src="figure/results.png" alt="results" width="500"/>
+  <img src="figure/results.png" alt="results"  style="max-width:100%; height:auto;"/>
 </p>
 
 ### Prerequisites
