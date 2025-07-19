@@ -5,7 +5,7 @@
 **Year:** 2024  
 
 <p align="center">
-  <img src="anim.gif" alt="Robot Animation" style="max-width:45%; height:auto;"/>
+  <img src="anim.gif" alt="Robot Animation" style="width:55%; height:auto;"/>
 </p>  
 
 ## Description
