@@ -32,6 +32,7 @@ hold off
 xlabel('t(s)'); ylabel('position (m)');
 title('End-Effector Position at X-Axis');
 legend('Reference','Actual','Location','eastoutside')
+grid on
 
 subplot(2,1,2)
 hold on
@@ -41,5 +42,6 @@ hold off
 xlabel('t(s)'); ylabel('position (m)');
 title('End-Effector Position at Y-Axis');
 legend('Reference','Actual','Location','eastoutside')
+grid on
 
 set(gcf,'color','w')
