@@ -7,6 +7,7 @@ figure;
 grid on
 title('Robot Position (Updating...)')
 xlabel('x (m)'); ylabel('y (m)');
+set(gcf,'color','w')
 axis([-2.2 2 -2.2 2])
 
 for i = 1 : n
