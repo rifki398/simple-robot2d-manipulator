@@ -1,0 +1,19 @@
+# Ignore MATLAB backup and autosave files
+*.asv
+*.autosave
+
+# Ignore Simulink generated folders
+slprj/
+sfprj/
+work/
+
+# Ignore MATLAB compiled files
+*.mex*
+*.mlappinstall
+*.mlpkginstall
+*.slxc
+
+# Ignore MATLAB code analyzer reports
+coderassumptions.mat
+codegen/
+html/
